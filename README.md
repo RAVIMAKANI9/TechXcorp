@@ -81,16 +81,6 @@ This project showcases creativity, component synergy, and clean layout compositi
 
 ---
 
-## ⏱ Time Spent
-| Task | Duration |
-|------|-----------|
-| Research & Exploration | 2 hours |
-| Design & Development | 3 hours |
-| Testing & Deployment | 2 hours |
-| *Total* | *~7 hours* |
-
----
-
 ## 💡 Highlights
 ✅ Built using *pure Bootstrap 5* (no external frameworks)  
 ✅ Fully *responsive* across devices  
@@ -118,3 +108,4 @@ Free for educational and personal use under the *MIT License*.
 
 > 🧠 “Design is not just what it looks like and feels like — design is how it works.”  
 > — Steve Jobs
+
